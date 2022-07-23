@@ -4,4 +4,5 @@
 This repo is for Hackathon 
 
 ## Demo
-https://github.com/Pauloper1/Hackathon-Blockchain-Hospital-Management-System/blob/main/EasyHealthCareVideo.mp4
+https://user-images.githubusercontent.com/88343134/180611445-69b89e45-d5df-456b-a5c5-5b100c130077.mp4
+
