@@ -1,6 +1,6 @@
 # Blockchain based Hospital management system.
 This was the first hackathon that my team and I participated and the theme was Blockchain.<br>
-
+So we built a blockchain based Hospital management system where the patient details will stored more securely.
 
 ## Group name : Men in Black
 
